@@ -5,8 +5,8 @@ import UnoCSS from 'unocss/astro'
 import vue from '@astrojs/vue'
 
 export default defineConfig({
-  site: 'https://bgener-vista-hub.github.io/astro-vitesse-portfolio/',
-  base: '/astro-vitesse-portfolio/',
+  site: 'https://bgener-vista-hub.github.io',
+  base: '/astro-vitesse-portfolio',
   server: {
     port: 1977,
   },
